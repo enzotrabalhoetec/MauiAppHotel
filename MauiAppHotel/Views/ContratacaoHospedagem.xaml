@@ -75,7 +75,7 @@
             </VerticalStackLayout>
         </Frame>
         <Frame Padding="10" Margin="10">
-            <Label Text="Sobre: Enzo Gustavo Melero Grosso
+            <Label Text="Sobre: Enzo Gustavo Melero
                    Feito: 02/11/2025"
                    FontSize="17"
  />
